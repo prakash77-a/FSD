@@ -1,0 +1,6 @@
+{
+  "name": "ResolveDesk - Enterprise Complaint Management System",
+  "description": "A full-stack enterprise Complaint Management System built with MongoDB, Express, React, and Node.js for submitting, tracking, assigning, and resolving organizational complaints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
